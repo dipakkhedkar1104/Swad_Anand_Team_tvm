@@ -1,5 +1,11 @@
 # Restaurant Management System
 
+<H2>Team TVM Members:</H2>
+<p>Dipak Khedkar</p>
+<p>Nagesh W</p>
+<p>Ajit Tone</p>
+<p>Nayana S</p>
+<p>Nandana S</p>
 Welcome to the Restaurant Management System project! This system aims to streamline the operations of restaurants, making it easier for restaurant owners and staff to manage orders, inventory, and customer information.
 
 ## Table of Contents
