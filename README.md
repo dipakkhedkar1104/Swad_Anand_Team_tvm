@@ -29,6 +29,6 @@ You can find a live demo of the project [here](#). Additionally, screenshots and
 To run the Restaurant Management System locally, follow these steps:
 
 1. Clone the repository:
-
+ 
 ```bash
 git clone https://github.com/dipakkhedkar1104/restaurant-management-system.git
