@@ -6,6 +6,7 @@
 <p>Ajit Tone</p>
 <p>Nayana S</p>
 <p>Nandana S</p>
+<h2 >💻Introduction: </h2>
 Welcome to the Restaurant Management System project! This system aims to streamline the operations of restaurants, making it easier for restaurant owners and staff to manage orders, inventory, and customer information.
 
 ## Table of Contents
